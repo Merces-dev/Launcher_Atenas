@@ -1,0 +1,10 @@
+C:\Users\giova\source\repos\Launcher_Atenas\Launcher_Atenas\bin\Debug\Launcher_Atenas.exe.config
+C:\Users\giova\source\repos\Launcher_Atenas\Launcher_Atenas\bin\Debug\Launcher_Atenas.exe
+C:\Users\giova\source\repos\Launcher_Atenas\Launcher_Atenas\bin\Debug\Launcher_Atenas.pdb
+C:\Users\giova\source\repos\Launcher_Atenas\Launcher_Atenas\obj\Debug\Launcher_Atenas.csprojAssemblyReference.cache
+C:\Users\giova\source\repos\Launcher_Atenas\Launcher_Atenas\obj\Debug\Launcher_Atenas.Form1.resources
+C:\Users\giova\source\repos\Launcher_Atenas\Launcher_Atenas\obj\Debug\Launcher_Atenas.Properties.Resources.resources
+C:\Users\giova\source\repos\Launcher_Atenas\Launcher_Atenas\obj\Debug\Launcher_Atenas.csproj.GenerateResource.cache
+C:\Users\giova\source\repos\Launcher_Atenas\Launcher_Atenas\obj\Debug\Launcher_Atenas.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Launcher_Atenas\Launcher_Atenas\obj\Debug\Launcher_Atenas.exe
+C:\Users\giova\source\repos\Launcher_Atenas\Launcher_Atenas\obj\Debug\Launcher_Atenas.pdb
